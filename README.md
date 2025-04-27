@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stephanie
+- 👋 Hi, I’m Stephanie
 - 👀 I’m interested in finance, research and mosaics
 - 🌱 I’m currently learning SQL, Python and data science
 - 💞️ I’m looking to collaborate on data science or financial analysis projects
